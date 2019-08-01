@@ -1,0 +1,15 @@
+.container{
+ display: flex;
+ width: 100%;
+ justify-content: center;
+}
+
+.container h2{
+  display: block;
+  color: black;
+  font-size: 1.5em;
+  font-weight: normal;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}

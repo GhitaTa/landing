@@ -1,0 +1,29 @@
+.footer{
+  background-color: #2C2B2B;
+  text-align: center;
+}
+
+.footer ul li {
+  display: inline-block;
+  padding: 20px;
+  list-style: none;
+  margin: 0px;
+}
+ul {
+  margin: 0px;
+  padding: 20px;
+}
+.github{
+  color: grey;
+  font-size: 36px;
+}
+.github:hover{
+  color: #BAFCCC;
+}
+
+.footer h3{
+  color: white;
+  font-size: 1em;
+  opacity: 0.5;
+  font-weight: lighter;
+}
